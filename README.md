@@ -1,1 +1,5 @@
-# ruby_school
+# Ruby Summer School
+# 
+#
+#
+#
